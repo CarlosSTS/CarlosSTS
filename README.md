@@ -8,13 +8,16 @@
 
 * He has skills in developing WPA applications and mobile applications using ReactJs, React Native...
 
+
+### Learning
+![BITBUCKET](https://camo.githubusercontent.com/34aa44323ae7a551dbe1552ad29d75829775eeadbf08d0fd330db9005624fdbc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6269746275636b6574)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ## Github status
 [![Carlos Ferreira](https://github-readme-stats.vercel.app/api?username=CarlosSTS&show_icons=true&count_private=true)](https://github.com/anandmainali)
 
-
-
 ## Contact
-
 * [
 ![Gmail Badge](https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)
 ](mailto:carlossts826@gmail.com)
