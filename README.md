@@ -12,7 +12,6 @@
 ![Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Insomnia](https://camo.githubusercontent.com/0abaf79f5a2c269447971b744307fcb26ba80ec2fd7025eb2e2ed82447c89891/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e736f6d6e69612d3538343942453f7374796c653d666c61742d737175617265266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d7768697465)
-![Reactotron](https://github.com/infinitered/reactotron/blob/master/docs/images/readme/Reactotron-128.png)
 
 ### Learning
 ![BITBUCKET](https://camo.githubusercontent.com/34aa44323ae7a551dbe1552ad29d75829775eeadbf08d0fd330db9005624fdbc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6269746275636b6574)
