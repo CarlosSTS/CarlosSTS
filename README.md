@@ -9,7 +9,7 @@
 * He has skills in developing WPA applications and mobile applications using ReactJs, React Native...
 
 ## Github status
-[![Carlos Ferreira](https://github-readme-stats.vercel.app/api?username=CarlosSTS_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Carlos Ferreira](https://github-readme-stats.vercel.app/api?username=CarlosSTS&show_icons=true&count_private=true)](https://github.com/anandmainali)
 
 
 
