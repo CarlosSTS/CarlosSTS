@@ -5,8 +5,8 @@
 * Passionate about mobile applications, always looking to make life easier for the user and focused on solving problems.
 * Always keeping an eye on the most modern mobile development technology on the market.
 * He has skills in developing WPA applications and mobile applications using ReactJs, React Native...
-* [My portfolio :😃:](https://CarlosSTS.github.io/portfolio/)
-* 
+* [My portfolio 🙂](https://CarlosSTS.github.io/portfolio/)
+
 ## Experience
 > React-native Developer Intern at [Polibras Brazil Software](https://polibrassoftware.com.br/)  (4 meses)
 
