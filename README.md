@@ -6,7 +6,9 @@
 * Always keeping an eye on the most modern mobile development technology on the market.
 * He has skills in developing WPA applications and mobile applications using ReactJs, React Native...
 
-> React-native Developer Intern at [Polibras Brazil Software](https://polibrassoftware.com.br/)
+## Experience
+> React-native Developer Intern at [Polibras Brazil Software](https://polibrassoftware.com.br/)  (4 meses)
+
 
 ### Some Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
