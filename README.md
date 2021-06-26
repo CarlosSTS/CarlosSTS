@@ -9,8 +9,7 @@
 
 ## Experience
 ### React-native Developer Intern at [Polibras Brazil Software](https://polibrassoftware.com.br/)  (4 meses)
-> Nesse estágio realizei algumas atividades tais como: criação de modal, telas e outras tarefas em react-native
-
+> Activities: modal creation, screens and others activities
 
 ### Some Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
