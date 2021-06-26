@@ -8,7 +8,8 @@
 * [My portfolio 🙂](https://CarlosSTS.github.io/portfolio/)
 
 ## Experience
-> React-native Developer Intern at [Polibras Brazil Software](https://polibrassoftware.com.br/)  (4 meses)
+### React-native Developer Intern at [Polibras Brazil Software](https://polibrassoftware.com.br/)  (4 meses)
+> Nesse estágio realizei algumas atividades tais como: criação de modal, telas e outras tarefas em react-native
 
 
 ### Some Technologies
