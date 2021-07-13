@@ -8,7 +8,7 @@
 * [My portfolio 🙂](https://portfolio-do-carlos.netlify.app/)
 
 ## Experience
-### React-native Developer Intern at [Polibras Brazil Software](https://polibrassoftware.com.br/)  (4 meses)
+### Intern in development at [Polibras Brazil Software](https://polibrassoftware.com.br/)  (4 months)
 > Activities: modal creation, screens and others activities
 
 ### Some Technologies
