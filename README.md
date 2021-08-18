@@ -8,7 +8,11 @@
 * [My portfolio 🙂](https://portfolio-do-carlos.netlify.app/)
 
 ## Experience
-### Intern in development at [Polibras Brazil Software](https://polibrassoftware.com.br/)  (4 months)
+
+### Intern in development at [Polibras Brazil Software](https://polibrassoftware.com.br/) (August 2021 - Present)
+> Activities: in progress...
+
+### Intern in development at [Polibras Brazil Software](https://polibrassoftware.com.br/) (January 2021 - April 2021)
 > Activities: modal creation, screens and others activities
 
 ### Some Technologies
