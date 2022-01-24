@@ -21,19 +21,33 @@
   <img align="center" alt="CarlosSTS-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CarlosSTS-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CarlosSTS-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="CarlosSTS-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="CarlosSTS-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="CarlosSTS-Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="CarlosSTS-Firebase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="CarlosSTS-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ### Tools
-![Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Insomnia](https://camo.githubusercontent.com/0abaf79f5a2c269447971b744307fcb26ba80ec2fd7025eb2e2ed82447c89891/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e736f6d6e69612d3538343942453f7374796c653d666c61742d737175617265266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d7768697465)
+<div style="display: inline_block"><br>
+ <img align="center" alt="CarlosSTS-Vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+ <img align="center" alt="CarlosSTS-chrome" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
+ <img align="center" alt="CarlosSTS-figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+ <img align="center" alt="CarlosSTS-slack" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
+ <img align="center" alt="CarlosSTS-github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+ <img align="center" alt="CarlosSTS-trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"> 
+ <img align="center" alt="CarlosSTS-Yarn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+ <img align="center" alt="CarlosSTS-Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ <img align="center" alt="CarlosSTS-android" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+ <img align="center" alt="CarlosSTS-apple" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+</div>
 
 ### Learning
-![BITBUCKET](https://camo.githubusercontent.com/34aa44323ae7a551dbe1552ad29d75829775eeadbf08d0fd330db9005624fdbc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6269746275636b6574)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<div style="display: inline_block"><br>
+  <img align="center" alt="CarlosSTS-bitbucket" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
+  <img align="center" alt="CarlosSTS-docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" alt="CarlosSTS-postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
 
 ## Github status
 [![Carlos Ferreira](https://github-readme-stats.vercel.app/api?username=CarlosSTS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/CarlosSTS)
