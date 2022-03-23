@@ -13,7 +13,7 @@
 > Activities: Database queries with SQLite and react-native, basic concepts of git, improvement in the use of classes in addition to reinforcing my knowledge about the life cycle in react, prototyping with figma, changing the flow and creating new screens and application publishing management in Apple store.
 
 ### Intern in development at [Polibras Brazil Software](https://polibrassoftware.com.br/) (January 2021 - April 2021)
-> Activities: Creation of screens and functionalities in react-native among other activations.
+> Activities: Creation of screens and functionalities in react-native among other activities.
 
 ### Some Technologies
 <div style="display: inline_block"><br>
