@@ -9,7 +9,11 @@
 
 ## Experience
 
-### Intern in development at [Polibras Brazil Software](https://polibrassoftware.com.br/) (August 2021 - Present)
+
+### Intern in development at [Polibras Brazil Software](https://polibrassoftware.com.br/) (August 2022 - Present)
+> Activities: Application publishing management in Apple store and Google play store (In progress...).
+
+### Intern in development at [Polibras Brazil Software](https://polibrassoftware.com.br/) (August 2021 - August 2022)
 > Activities: Database queries with SQLite and react-native, basic concepts of git, improvement in the use of classes in addition to reinforcing my knowledge about the life cycle in react, prototyping with figma, changing the flow and creating new screens and application publishing management in Apple store.
 
 ### Intern in development at [Polibras Brazil Software](https://polibrassoftware.com.br/) (January 2021 - April 2021)
