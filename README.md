@@ -9,8 +9,11 @@
 
 ## Experience
 
-### Junior front end developer at [Polibras Brazil Software](https://polibrassoftware.com.br/) (August 2022 - Present)
-> Activities: Application publishing management in Apple store and Google play store (In progress...).
+### Junior front end developer II at [Polibras Brazil Software](https://polibrassoftware.com.br/) (August 2023 - Present)
+> Activities:(In progress...).
+
+### Junior front end developer I at [Polibras Brazil Software](https://polibrassoftware.com.br/) (August 2022 - August 2023)
+> Activities: Application publishing management in Apple store and Google play store.
 
 ### Intern in development at [Polibras Brazil Software](https://polibrassoftware.com.br/) (August 2021 - August 2022)
 > Activities: Database queries with SQLite and react-native, basic concepts of git, improvement in the use of classes in addition to reinforcing my knowledge about the life cycle in react, prototyping with figma, changing the flow and creating new screens and application publishing management in Apple store.
