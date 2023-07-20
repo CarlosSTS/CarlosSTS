@@ -9,10 +9,10 @@
 
 ## Experience
 
-### Junior front end developer II at [Polibras Brazil Software](https://polibrassoftware.com.br/) (August 2023 - Present)
+### Junior front end developer II at [Polibras Brazil Software](https://polibrassoftware.com.br/) (July 2023 - Present)
 > Activities:(In progress...).
 
-### Junior front end developer I at [Polibras Brazil Software](https://polibrassoftware.com.br/) (August 2022 - August 2023)
+### Junior front end developer I at [Polibras Brazil Software](https://polibrassoftware.com.br/) (August 2022 - July 2023)
 > Activities: Application publishing management in Apple store and Google play store.
 
 ### Intern in development at [Polibras Brazil Software](https://polibrassoftware.com.br/) (August 2021 - August 2022)
