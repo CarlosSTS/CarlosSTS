@@ -201,8 +201,6 @@
 
 <div align="center">
 
-### 💡 *"Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of what to do and what not to do."* - Robert C. Martin
-
 ![Profile Views](https://komarev.com/ghpvc/?username=CarlosSTS&color=blueviolet&style=for-the-badge)
 
 </div>
