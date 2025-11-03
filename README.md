@@ -20,11 +20,11 @@
 
 ## 💼 Professional Experience
 
-### 🔹 Full Stack Developer Pleno III at [Impar Tecnologia](https://impartecnologia.com/)
+### 🔹 Full Stack Developer Pleno III at [Impar Tecnologia](https://impartecnologia.com.br/)
 📅 **September 2025 - Present** · 3 months  
 📍 Cascavel, Ceará, Brasil · On-site
 
-> Working on mobile application development with React Native, creation and evolution of REST APIs with Node.js, in addition to developing web interfaces using React.js. Experience in implementing responsive interfaces, always seeking good code practices, performance and quality in project delivery.
+> Working on mobile application development and maintenance with React Native, creation and evolution of REST APIs with Node.js, in addition to developing web interfaces using React.js. Experience in implementing new features, bug fixes and continuous project improvement, always seeking good code practices, performance and quality in delivery.
 > 
 > **Skills:** JavaScript · Node.js · React · React.js · React Native
 
@@ -32,14 +32,14 @@
 
 ### 🔹 Junior Developer II at [Polibras Software](https://polibrassoftware.com.br/)
 📅 **July 2023 - September 2025** · 2 years 3 months  
-📍 Hybrid
+📍 Aquiraz, Ceará, Brasil · Hybrid
 
-> Responsible for evolution and maintenance of React Native and ReactJS applications, working autonomously in feature development and continuous project improvement. Worked with Figma interface consumption and migration of SQL/Postgres queries for backend development in Django, Flask and PHP.
+> Responsible for evolution and maintenance of React Native and ReactJS applications, working autonomously in feature development and continuous project improvement. Worked with Figma interface consumption, SQL/Postgres/SQLite queries and backend development in Django, Flask and PHP.
 > 
 > **Key Activities:**
-> - Creation of React Native versions, expanding compatibility and project evolution
+> - Upgrade of React Native versions, ensuring compatibility and project evolution
 > - Creation and maintenance of native modules with Turbo Modules
-> - Integration of systems and services like Cerne Frontend and Varejo
+> - Integration of systems and services between frontend and backend
 > - Application publishing management on Apple Store and Google Play Store
 > - Support in CI/CD pipelines and good versioning practices
 > 
@@ -49,14 +49,14 @@
 
 ### 🔹 Junior Developer I at [Polibras Software](https://polibrassoftware.com.br/)
 📅 **August 2022 - July 2023** · 1 year  
-📍 Hybrid
+📍 Aquiraz, Ceará, Brasil · Hybrid
 
 > Worked on React Native and ReactJS application development, with active participation in interface design in Figma and data manipulation in SQL, Postgres and SQLite. Also collaborated on backend projects using Django, Flask and PHP.
 > 
 > **Key Activities:**
 > - Consumption and integration of REST/RESTful APIs between frontend and backend
 > - Implementation of CI/CD and code versioning with Git and Bitbucket
-> - Creation of native modules for React Native with C++ and TypeScript
+> - Creation of native modules for React Native with Turbo Modules
 > - Participation in application publishing on stores (Apple Store and Google Play)
 > 
 > **Skills:** JavaScript · Python · React.js · C++ · React Native
@@ -64,18 +64,34 @@
 ---
 
 ### 🔹 Development Intern at [Polibras Software](https://polibrassoftware.com.br/)
-📅 **January 2021 - August 2022** · 1 year 8 months  
-📍 Aquiraz, Ceará, Brasil · Hybrid
+📅 **August 2021 - August 2022** · 1 year 1 month  
+📍 Aquiraz, Ceará, Brasil · Hybrid  
+**Internship for Hiring**
+
+> Worked on React Native and ReactJS application development, with active participation in interface design in Figma and data manipulation in SQL, Postgres and SQLite. Also collaborated on backend projects using Django, Flask and PHP.
+> 
+> **Key Activities:**
+> - Consumption and integration of REST APIs between frontend and backend
+> - Code versioning with Git and Bitbucket
+> - Interface prototyping and implementation
+> - Database queries and manipulation
+> 
+> **Skills:** JavaScript · Python · React Native · React.js
+
+---
+
+### 🔹 Development Intern at [Polibras Software](https://polibrassoftware.com.br/)
+📅 **January 2021 - April 2021** · 4 months  
+📍 Aquiraz, Ceará, Brasil · Hybrid  
+**Technical Course Completion Internship**
 
 > Participated in internship for completion and certification of the technical course in Computer Science, focusing on screen development and functionalities in React Native, in addition to support in other stages of the application development cycle.
 > 
 > **Key Activities:**
-> - Database queries with SQLite and React Native
+> - Database queries with SQLite
 > - Application of basic Git concepts
 > - Reinforcement of knowledge about the React lifecycle
-> - Prototyping with Figma
-> - Screen flow changes and creation of new screens
-> - Application publishing management on Apple Store and Google Play Store
+> - Creation of screens and functionalities in React Native
 > 
 > **Skills:** JavaScript · React.js · React · React Native
 
@@ -116,7 +132,6 @@
   <img align="center" alt="CarlosSTS-Github" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="CarlosSTS-Bitbucket" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
 </div>
-
 
 ---
 
@@ -175,6 +190,7 @@
 ## 📫 Contact & Social
 
 <div align="center">
+ <a href="mailto:carlossts826@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://github.com/CarlosSTS" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/carlos-ferreira-4b2ba219a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.instagram.com/carlos_ferreira826" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -184,6 +200,8 @@
 ---
 
 <div align="center">
+
+### 💡 *"Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of what to do and what not to do."* - Robert C. Martin
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CarlosSTS&color=blueviolet&style=for-the-badge)
 
