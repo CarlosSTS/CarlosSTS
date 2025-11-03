@@ -20,7 +20,7 @@
 
 ## 💼 Professional Experience
 
-### 🔹 Full Stack Developer Pleno III at [Impar Tecnologia](https://impartecnologia.com.br/)
+### 🔹 Full Stack Developer Pleno III at [Impar Tecnologia](https://impartecnologia.com/)
 📅 **September 2025 - Present** · 3 months  
 📍 Cascavel, Ceará, Brasil · On-site
 
