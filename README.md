@@ -100,64 +100,62 @@
 ## 🛠️ Technologies & Skills
 
 ### Frontend
-<div style="display: inline_block"><br>
-  <img align="center" alt="CarlosSTS-React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="CarlosSTS-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="CarlosSTS-Ts" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="CarlosSTS-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CarlosSTS-CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CarlosSTS-Redux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="React" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="JavaScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="HTML5" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Redux" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 </div>
 
 ### Backend
-<div style="display: inline_block"><br>
-  <img align="center" alt="CarlosSTS-NodeJS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="CarlosSTS-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="CarlosSTS-Django" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="CarlosSTS-Flask" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="CarlosSTS-PHP" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="CarlosSTS-Cpp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="NodeJS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Python" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Django" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img alt="Flask" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img alt="PHP" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="C++" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 ### Database
-<div style="display: inline_block"><br>
-  <img align="center" alt="CarlosSTS-PostgreSQL" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="CarlosSTS-SQLite" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="CarlosSTS-Firebase" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="PostgreSQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="SQLite" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  <img alt="Firebase" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
 
 ### Version Control
-<div style="display: inline_block"><br>
-  <img align="center" alt="CarlosSTS-Git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="CarlosSTS-Github" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="CarlosSTS-Bitbucket" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="GitHub" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img alt="Bitbucket" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
 </div>
-
 ---
 
 ## 🧰 Development Tools
-<div style="display: inline_block"><br>
- <img align="center" alt="CarlosSTS-Vscode" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <img align="center" alt="CarlosSTS-Figma" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
- <img align="center" alt="CarlosSTS-Docker" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
- <img align="center" alt="CarlosSTS-Yarn" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
- <img align="center" alt="CarlosSTS-Slack" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
- <img align="center" alt="CarlosSTS-Trello" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"> 
- <img align="center" alt="CarlosSTS-Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
- <img align="center" alt="CarlosSTS-Android" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
- <img align="center" alt="CarlosSTS-Apple" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+ <img alt="VSCode" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+ <img alt="Figma" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+ <img alt="Docker" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+ <img alt="Yarn" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+ <img alt="Slack" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
+ <img alt="Trello" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"> 
+ <img alt="Linux" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ <img alt="Android" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+ <img alt="Apple" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
 </div>
 
 ---
 
 ## 📚 Currently Learning & Improving
-<div style="display: inline_block"><br>
-  <img align="center" alt="CarlosSTS-Docker" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="CarlosSTS-Kubernetes" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="CarlosSTS-GraphQL" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="CarlosSTS-Jest" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="Docker" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="Kubernetes" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img alt="GraphQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+  <img alt="Jest" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 </div>
-
 ---
 
 ## 📊 GitHub Statistics
