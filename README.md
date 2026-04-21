@@ -21,7 +21,7 @@
 ## 💼 Professional Experience
 
 ### 🔹 Full Stack Developer Pleno III at [Impar Tecnologia](https://impartecnologia.com/)
-📅 **September 2025 - Present** · 3 months  
+📅 **September 2025 - Present** · 8 months  
 📍 Cascavel, Ceará, Brasil · On-site
 
 > Working on mobile application development and maintenance with React Native, creation and evolution of REST APIs with Node.js, in addition to developing web interfaces using React.js. Experience in implementing new features, bug fixes and continuous project improvement, always seeking good code practices, performance and quality in delivery.
@@ -78,8 +78,6 @@
 > 
 > **Skills:** JavaScript · Python · React Native · React.js
 
----
-
 ### 🔹 Development Intern at [Polibras Software](https://polibrassoftware.com.br/)
 📅 **January 2021 - April 2021** · 4 months  
 📍 Aquiraz, Ceará, Brasil · Hybrid  
@@ -94,8 +92,6 @@
 > - Creation of screens and functionalities in React Native
 > 
 > **Skills:** JavaScript · React.js · React · React Native
-
----
 
 ## 🛠️ Technologies & Skills
 
@@ -132,7 +128,6 @@
   <img alt="GitHub" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img alt="Bitbucket" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
 </div>
----
 
 ## 🧰 Development Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -147,8 +142,6 @@
  <img alt="Apple" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
 </div>
 
----
-
 ## 📚 Currently Learning & Improving
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="Docker" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
@@ -156,7 +149,6 @@
   <img alt="GraphQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   <img alt="Jest" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 </div>
----
 
 ## 📊 GitHub Statistics
 
@@ -183,8 +175,6 @@
 - 📦 **Publishing:** Apple Store & Google Play Store Management
 - 🧪 **Testing:** Unit Tests, Integration Tests
 
----
-
 ## 📫 Contact & Social
 
 <div align="center">
@@ -193,8 +183,6 @@
  <a href="https://www.instagram.com/carlos_ferreira826" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://portfolio-do-carlos.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a>
 </div>
-
----
 
 <div align="center">
 
